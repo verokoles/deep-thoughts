@@ -2,6 +2,10 @@
   "name": "mern-client",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
+=======
+  "main": "server.js",
+>>>>>>> c04200b8337ae3636fcf3d524df569a7f081311f
   "proxy": "http://localhost:3001/",
   "dependencies": {
     "@apollo/client": "^3.3.16",
